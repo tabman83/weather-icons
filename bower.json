@@ -14,7 +14,7 @@
 		"./css/weather-icons.css",
 		"./css/weather-icons.min.css",
 		"./weather-icons/weather-icons.less",
-		"./font/*"
+		"./fonts/*"
 	],
 	"ignore": [
 		"cheatsheet/",
